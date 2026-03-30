@@ -1,34 +1,49 @@
 # Sanaâ – Amazon Performance Expert
 
-## Positionnement
-Consultante spécialisée en croissance Amazon combinant KDP Publishing, stratégie produit et optimisation Seller Central.
+## 🚀 Positionnement
 
-## Expertise
+Consultante experte en croissance Amazon, spécialisée dans la création de produits via KDP et l’optimisation des performances sur Amazon Seller Central.
 
-- Amazon KDP (création et validation de produits)
-- Amazon Seller Central (optimisation des performances)
+J’accompagne les vendeurs et les marques à identifier des opportunités rentables, lancer des produits performants et scaler leur activité.
+
+---
+
+## 💎 Expertise
+
+- Amazon KDP : recherche de niches, validation de produits, lancement
+- Amazon Seller Central : optimisation des listings et performances
 - Audit stratégique & croissance
 - Analyse de marché et positionnement produit
 
-## Approche
+---
 
-Je combine la création de produits (KDP) avec une vision business globale Amazon afin d’optimiser la performance et la rentabilité des marques.
+## 📊 Approche
 
-## Objectif
+J’adopte une approche orientée résultats basée sur :
 
-Accompagner les vendeurs et entreprises à :
+- Analyse de données et du marché
+- Validation d’opportunités rentables
+- Stratégie produit alignée avec la demande Amazon
+- Optimisation continue des performances
 
-- Améliorer leurs ventes
-- Optimiser leurs listings
-- Structurer une stratégie Amazon rentable
-- Passer à l’échelle
+---
 
-## Projets
+## 🎯 Objectif
 
-- Création et lancement de livres KDP
-- Analyse de niches
-- Tests de positionnement produit
+Transformer des idées en produits rentables et accompagner les vendeurs à :
 
-## Contact
+- Augmenter leurs ventes
+- Améliorer leur positionnement
+- Structurer une croissance durable
+
+---
+
+## 📁 Case Studies
+
+- Amazon KDP – Analyse de niche et stratégie produit → voir fichier `case-study-kdp-amazon.md`
+
+---
+
+## 📩 Contact
 
 Disponible pour missions de consulting Amazon Seller Central.
