@@ -1,45 +1,52 @@
 # Case Study – Amazon KDP Strategy
 
-## Objectif
+## 🎯 Objectif
 
-Tester une niche rentable sur Amazon via KDP et analyser le potentiel marché.
-
----
-
-## Analyse de marché
-
-- Recherche de mots-clés
-- Analyse de la concurrence
-- Identification d’opportunités
+Identifier une niche rentable sur Amazon via KDP et construire une stratégie produit optimisée basée sur la data.
 
 ---
 
-## Stratégie
+## 🔍 Analyse de marché
 
-- Création d’un ebook ciblé
-- Positionnement sur une niche spécifique
-- Optimisation du titre et description
-
----
-
-## Résultat attendu
-
-- Validation de la demande
-- Identification des opportunités de croissance
-- Compréhension du comportement client Amazon
+- Recherche avancée de mots-clés Amazon
+- Analyse de la concurrence (positionnement, prix, reviews)
+- Identification des opportunités à faible concurrence et forte demande
 
 ---
 
-## Apprentissage
+## 🧠 Stratégie mise en place
 
-Ce projet m’a permis de :
-
-- Comprendre le fonctionnement du SEO Amazon
-- Identifier les opportunités de niche
-- Structurer une stratégie produit
+- Sélection d’une niche ciblée avec potentiel de rentabilité
+- Création d’un ebook optimisé pour le référencement Amazon (SEO KDP)
+- Optimisation du titre, sous-titre et description
+- Positionnement différenciant face aux concurrents
 
 ---
 
-## Conclusion
+## 📈 Résultats attendus
 
-Le KDP est un excellent levier pour tester des marchés avant de scaler sur Amazon Seller Central.
+- Validation du potentiel de la niche
+- Amélioration du positionnement produit
+- Augmentation du taux de conversion
+- Base exploitable pour scaler avec plusieurs produits
+
+---
+
+## 💡 Apprentissage stratégique
+
+Ce case study démontre ma capacité à :
+
+- Analyser un marché Amazon avec une approche data-driven
+- Identifier des opportunités rentables
+- Construire une stratégie produit alignée avec la demande
+- Appliquer des méthodes concrètes utilisables pour des vendeurs Amazon
+
+---
+
+## 🚀 Vision
+
+Cette approche est directement applicable pour :
+
+- Lancer des produits KDP rentables
+- Optimiser des listings Amazon Seller Central
+- Accompagner des marques dans leur croissance sur Amazon
