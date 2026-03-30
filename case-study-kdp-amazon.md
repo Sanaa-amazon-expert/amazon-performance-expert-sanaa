@@ -49,3 +49,29 @@ Ce type d’approche permet à une marque ou un vendeur :
 - D’éviter les niches saturées
 - De lancer des produits avec un avantage concurrentiel
 - D’optimiser ses performances dès le lancement
+
+---
+
+## 💼 Offre associée
+
+À partir de cette méthodologie, je propose un audit Amazon permettant d’identifier :
+
+- Les opportunités de niche rentables
+- Les faiblesses de positionnement produit
+- Les optimisations prioritaires pour améliorer visibilité et conversion
+
+---
+
+## 🎯 Pourquoi un client ferait appel à moi
+
+J’apporte une approche stratégique orientée performance pour aider un vendeur Amazon à :
+
+- Réduire les erreurs de choix de niche
+- Gagner du temps dans la validation produit
+- Prendre des décisions basées sur la data et non sur l’intuition
+
+---
+
+## 📩 Proposition de valeur
+
+Je peux analyser un produit, une niche ou un listing Amazon et fournir un plan d’action clair, structuré et directement applicable.
